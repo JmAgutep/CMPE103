@@ -118,7 +118,7 @@ namespace laundryShop
         {
             var yunohFour = new List<string>()
             {
-              "21-25kg",
+              "21-25 kg",
               "12000 L",
               "Amount of scoop",
               "12 scoops of powder detergent",
